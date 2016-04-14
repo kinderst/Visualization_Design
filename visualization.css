@@ -1,0 +1,38 @@
+html {
+	background: url(/kinders/i474/visualizationdesign/background.jpg) no-repeat;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+#navbar {
+	text-align: center;
+	padding-top: 50px;
+	font-family: Georgia, Serif;
+}
+
+
+.navbarbutton {
+	padding-left: 10%;
+	padding-right: 10%;
+}
+
+.navbarbutton:hover {
+	cursor: pointer;
+}
+
+#content {
+	margin-top: 70px;
+	width: 70%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#textcontent p {
+	width: 70%;
+}
+
+#graphone, #graphtwo, #graphthree {
+	margin-top: 50px;
+}
